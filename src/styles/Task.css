@@ -1,0 +1,27 @@
+.Task {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: rgb(234, 235, 233);
+    color: black;
+    width: 700px;
+    text-align: start;
+    padding: 5px;
+}
+
+.TextPlace {
+    padding: 5px;
+    box-sizing: border-box;
+    width: 95%;
+    margin: auto;
+}
+
+button {
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding-right: 10px;
+}
